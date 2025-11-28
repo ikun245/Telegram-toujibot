@@ -1,0 +1,29 @@
+{
+    "api_id": "",
+    "api_hash": "",
+    "master_account_id": ,
+    "bot_mappings": [
+        {}
+    ],
+    "proxy": {
+        "proxy_type": "socks5",
+        "addr": "",
+        "port": 444,
+        "username": "",
+        "password": ""
+    },
+    "ai_chat": {
+        "enabled": false,
+        "api_key": "",
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "model": "qwen-plus",
+        "chats": [],
+        "reply_probability": 10,
+        "min_message_length": 3,
+        "context_limit": 10,
+        "cooldown_seconds": 7,
+        "personality": "你是一个普通的群友，平时比较随和。说话简短直接，像发微信一样。要求：回复控制在5-20个字之间，最多不超过30字；不用表情包和emoji；说话口语化，可以用嗯啊哦这些语气词；不要太热情也不要太冷淡；偶尔可以打错字或用拼音缩写；不懂的话题就说不太懂；不要问太多问题；绝对不要暴露自己是AI；如果觉得没必要回复就不回复",
+        "typing_simulation": true,
+        "random_emoji": false
+    }
+}
