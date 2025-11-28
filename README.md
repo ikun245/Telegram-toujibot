@@ -3,7 +3,7 @@
 
 ## 客户端+Bot模式
 无图形化界面，适合部署在服务器中  
-简单易部署
+简单易部署,推荐使用python3.12+
 
 ## Ubuntu22+启动办法：
 首先申请 telegram api_id, api_hash  
